@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <dimen name="list_item_height">72dp</dimen>
+        <dimen name="horizontal_page_margin">10dp</dimen>
+        <dimen name="vertical_page_margin">10dp</dimen>
+    <dimen name="margin_medium">5dp</dimen>
+
+</resources>
