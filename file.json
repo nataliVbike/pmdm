@@ -1,0 +1,451 @@
+[
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Zlatko",
+            "last": "Tošić"
+        },
+        "location": {
+            "street": {
+                "number": 122,
+                "name": "Miroslava Belovića"
+            },
+            "city": "Leposavić",
+            "state": "North Bačka",
+            "country": "Serbia",
+            "postcode": 32075,
+            "coordinates": {
+                "latitude": "62.1653",
+                "longitude": "-51.8101"
+            },
+            "timezone": {
+                "offset": "+9:30",
+                "description": "Adelaide, Darwin"
+            }
+        },
+        "video": 1,
+        "login": {
+            "uuid": "fde08663-6482-4bc9-a752-4ac1fc8f5bda",
+            "username": "goldendog339",
+            "password": "isaac",
+            "salt": "AqIkTXKP",
+            "md5": "5e1185b31675c4450560b2cb912037c7",
+            "sha1": "f1068ceb767d99bb040b267717ba97dcaa0992b5",
+            "sha256": "fae869ffb68b6cf785fb4cb11de7d478df637f3b6a9fcb847eca7ca87b1bd793"
+        },
+        "dob": {
+            "date": "1981-12-14T02:04:20.758Z",
+            "age": 42
+        },
+        "registered": {
+            "date": "2018-07-11T02:03:17.945Z",
+            "age": 5
+        },
+        "phone": "038-5937-860",
+        "cell": "068-2294-037",
+        "id": {
+            "name": "SID",
+            "value": "293628123"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/11.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/11.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/11.jpg"
+        },
+        "nat": "RS"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Leoberto",
+            "last": "da Paz"
+        },
+        "location": {
+            "street": {
+                "number": 3246,
+                "name": "Rua Rui Barbosa "
+            },
+            "city": "Campo Largo",
+            "state": "Santa Catarina",
+            "country": "Brazil",
+            "postcode": 40848,
+            "coordinates": {
+                "latitude": "-88.8690",
+                "longitude": "130.1644"
+            },
+            "timezone": {
+                "offset": "-10:00",
+                "description": "Hawaii"
+            }
+        },
+       "video": 1,
+        "login": {
+            "uuid": "33e715b3-f4a4-4d34-a109-41593d59faef",
+            "username": "whiteleopard485",
+            "password": "wine",
+            "salt": "L9N58zfn",
+            "md5": "1b54b57042b8a011e6e1585545e5e5c2",
+            "sha1": "98ecfecc51f42e705b1251a77276c7415f58818d",
+            "sha256": "4a38af4371824b5fe1e8224c7bf837a3193364658da2abd2ffb4521340ce7db9"
+        },
+        "dob": {
+            "date": "1982-05-24T13:26:41.187Z",
+            "age": 41
+        },
+        "registered": {
+            "date": "2014-10-23T10:26:44.785Z",
+            "age": 9
+        },
+        "phone": "(00) 1303-7002",
+        "cell": "(40) 5283-4897",
+        "id": {
+            "name": "CPF",
+            "value": "950.725.679-27"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/86.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+        },
+        "nat": "BR"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Elizabeth",
+            "last": "Lynch"
+        },
+        "location": {
+            "street": {
+                "number": 8471,
+                "name": "Kings Road"
+            },
+            "city": "Ely",
+            "state": "Fife",
+            "country": "United Kingdom",
+            "postcode": "J6D 3RA",
+            "coordinates": {
+                "latitude": "-14.7933",
+                "longitude": "-145.3262"
+            },
+            "timezone": {
+                "offset": "-3:00",
+                "description": "Brazil, Buenos Aires, Georgetown"
+            }
+        },
+        "video": 1,
+        "login": {
+            "uuid": "3ff86a9d-1015-405b-9037-184d56dfbf90",
+            "username": "beautifulwolf861",
+            "password": "kkkkk",
+            "salt": "t0umBmcN",
+            "md5": "a03d6cded09c683c73c6f03edabe66f3",
+            "sha1": "b852de6222660011d2ee46a18bedc102368718b8",
+            "sha256": "b45e64600327ba688d15493c130d29fa14675ce95ccf51b081a21a152e02dd29"
+        },
+        "dob": {
+            "date": "1987-10-28T09:24:49.929Z",
+            "age": 36
+        },
+        "registered": {
+            "date": "2005-09-07T16:57:03.129Z",
+            "age": 18
+        },
+        "phone": "017684 82281",
+        "cell": "07520 824495",
+        "id": {
+            "name": "NINO",
+            "value": "EP 90 17 16 R"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/37.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+        },
+        "nat": "GB"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Janelle",
+            "last": "Looije"
+        },
+        "location": {
+            "street": {
+                "number": 9649,
+                "name": "A.A. Meerenburghstraat"
+            },
+            "city": "Vijlen",
+            "state": "Zuid-Holland",
+            "country": "Netherlands",
+            "postcode": "9837 YQ",
+            "coordinates": {
+                "latitude": "40.2504",
+                "longitude": "-79.4449"
+            },
+            "timezone": {
+                "offset": "+3:30",
+                "description": "Tehran"
+            }
+        },
+       "video": 1,
+        "login": {
+            "uuid": "89bf3c7b-4825-4d45-a05f-53630a81fdc2",
+            "username": "beautifulfish339",
+            "password": "video1",
+            "salt": "ptBzJTYu",
+            "md5": "8b29b84e55241fd475f5d343d1a9fde0",
+            "sha1": "14125ea067542c31901690804274ec2ed397155c",
+            "sha256": "25c46483901c650c68ea3995213db0ff4470e591be9ff063055399686d489851"
+        },
+        "dob": {
+            "date": "1984-12-28T23:34:52.864Z",
+            "age": 39
+        },
+        "registered": {
+            "date": "2006-03-27T21:20:48.460Z",
+            "age": 17
+        },
+        "phone": "(0599) 039580",
+        "cell": "(06) 06834539",
+        "id": {
+            "name": "BSN",
+            "value": "93411600"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/24.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/24.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/24.jpg"
+        },
+        "nat": "NL"
+    },
+    {
+        "gender": "male",
+        "name": {
+            "title": "Mr",
+            "first": "Ronnie",
+            "last": "Hoffman"
+        },
+        "location": {
+            "street": {
+                "number": 9862,
+                "name": "Adams St"
+            },
+            "city": "Moscow",
+            "state": "North Dakota",
+            "country": "United States",
+            "postcode": 61163,
+            "coordinates": {
+                "latitude": "-20.7376",
+                "longitude": "53.3071"
+            },
+            "timezone": {
+                "offset": "-7:00",
+                "description": "Mountain Time (US & Canada)"
+            }
+        },
+        "video": 1,
+        "login": {
+            "uuid": "2ac5ae6a-2d0b-4230-a70f-661d5df1dfde",
+            "username": "greenfrog292",
+            "password": "carole",
+            "salt": "aAcvkzwq",
+            "md5": "6b6fc3fb43fdc7f2843404287cef428d",
+            "sha1": "901809c825b9977ae257b9844a7576bbf3670fda",
+            "sha256": "293e7d110121ded685abfd51128783e28123b0565bdcb05c820d6d3f2ad7036f"
+        },
+        "dob": {
+            "date": "1955-06-16T18:15:47.657Z",
+            "age": 68
+        },
+        "registered": {
+            "date": "2017-02-14T16:08:37.526Z",
+            "age": 7
+        },
+        "phone": "(348) 244-8106",
+        "cell": "(907) 730-5630",
+        "id": {
+            "name": "SSN",
+            "value": "740-88-7651"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/men/98.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/98.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/98.jpg"
+        },
+        "nat": "US"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Maja",
+            "last": "Petersen"
+        },
+        "location": {
+            "street": {
+                "number": 7534,
+                "name": "Holmegårdsvej"
+            },
+            "city": "Ishoej",
+            "state": "Hovedstaden",
+            "country": "Denmark",
+            "postcode": 44766,
+            "coordinates": {
+                "latitude": "23.9845",
+                "longitude": "78.6673"
+            },
+            "timezone": {
+                "offset": "+4:30",
+                "description": "Kabul"
+            }
+        },
+        "video": 0,
+        "login": {
+            "uuid": "d9487ba9-1466-4b44-850b-0ebe3f816dfd",
+            "username": "happygorilla978",
+            "password": "147147",
+            "salt": "L4x5n7qH",
+            "md5": "a6adbc78870e1bb1a389d1ef8825ab38",
+            "sha1": "26c8426380a745ac12e89969cc929a3fd7b3cff2",
+            "sha256": "28e618450eca8758d34b3fbd6d67852f6a15e1f64cb33aad2f132df506fe2ebc"
+        },
+        "dob": {
+            "date": "1970-09-26T22:22:55.764Z",
+            "age": 53
+        },
+        "registered": {
+            "date": "2004-08-27T19:59:20.533Z",
+            "age": 19
+        },
+        "phone": "54227549",
+        "cell": "99167006",
+        "id": {
+            "name": "CPR",
+            "value": "260970-0150"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/25.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/25.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/25.jpg"
+        },
+        "nat": "DK"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Arundhati",
+            "last": "Mardhekar"
+        },
+        "location": {
+            "street": {
+                "number": 761,
+                "name": "Linking Rd"
+            },
+            "city": "Amravati",
+            "state": "Karnataka",
+            "country": "India",
+            "postcode": 48445,
+            "coordinates": {
+                "latitude": "66.4465",
+                "longitude": "-37.5552"
+            },
+            "timezone": {
+                "offset": "-11:00",
+                "description": "Midway Island, Samoa"
+            }
+        },
+        "video": 1,
+        "login": {
+            "uuid": "b2df9533-04c6-42ea-87ad-34e18ddad84f",
+            "username": "heavybear211",
+            "password": "studio",
+            "salt": "sJeaFluh",
+            "md5": "0dbe8935d2fefccfb112cf8f520f8595",
+            "sha1": "de7efea20ab117180cb8793e47bc6c7c79ff8c19",
+            "sha256": "94fa38e0bdaaa47aaadf434e802a8d7910cd1b80cc151329992ad1c2a49b505f"
+        },
+        "dob": {
+            "date": "1982-07-14T00:03:34.826Z",
+            "age": 41
+        },
+        "registered": {
+            "date": "2019-04-08T02:03:05.823Z",
+            "age": 4
+        },
+        "phone": "8387395140",
+        "cell": "8725930438",
+        "id": {
+            "name": "UIDAI",
+            "value": "154171717649"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/48.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/48.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/48.jpg"
+        },
+        "nat": "IN"
+    },
+    {
+        "gender": "female",
+        "name": {
+            "title": "Miss",
+            "first": "Saskia",
+            "last": "Gebhardt"
+        },
+        "location": {
+            "street": {
+                "number": 5758,
+                "name": "Kirchgasse"
+            },
+            "city": "Kassel",
+            "state": "Bremen",
+            "country": "Germany",
+            "postcode": 82126,
+            "coordinates": {
+                "latitude": "42.5113",
+                "longitude": "-133.8846"
+            },
+            "timezone": {
+                "offset": "-6:00",
+                "description": "Central Time (US & Canada), Mexico City"
+            }
+        },
+        "video": 0,
+        "login": {
+            "uuid": "2ae2956a-5c84-41d3-a6f9-b82f3f1acf36",
+            "username": "goldenpeacock361",
+            "password": "chriss",
+            "salt": "velUIpXK",
+            "md5": "519990bad299a42697e8ccb295ba5bed",
+            "sha1": "7d825606b034a776ce1d684cb37cf6d36c9b3cc1",
+            "sha256": "13c1aadda198db9951f72b7ad8851fabb2d10916cddb10507baa20415fa61e81"
+        },
+        "dob": {
+            "date": "1947-07-04T04:24:45.012Z",
+            "age": 76
+        },
+        "registered": {
+            "date": "2021-04-16T13:50:38.194Z",
+            "age": 2
+        },
+        "phone": "0294-5931290",
+        "cell": "0170-2938048",
+        "id": {
+            "name": "SVNR",
+            "value": "18 030747 G 929"
+        },
+        "picture": {
+            "large": "https://randomuser.me/api/portraits/women/22.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/women/22.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/women/22.jpg"
+        },
+        "nat": "DE"
+    }
+   
+]
